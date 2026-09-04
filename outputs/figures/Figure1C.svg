@@ -1,0 +1,701 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="720"
+   height="560"
+   viewBox="0 0 720 560"
+   font-family="Times New Roman, Times, serif"
+   version="1.1"
+   id="svg50"
+   sodipodi:docname="Figure1C.svg"
+   inkscape:version="1.4.4 (dcaf3e7, 2026-05-05)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"><defs
+   id="defs50" />
+<sodipodi:namedview
+   id="namedview50"
+   pagecolor="#ffffff"
+   bordercolor="#000000"
+   borderopacity="0.25"
+   inkscape:showpageshadow="2"
+   inkscape:pageopacity="0.0"
+   inkscape:pagecheckerboard="0"
+   inkscape:deskcolor="#d1d1d1"
+   inkscape:zoom="0.73993674"
+   inkscape:cx="338.54245"
+   inkscape:cy="381.11366"
+   inkscape:current-layer="svg50" />
+<rect
+   width="679.45599"
+   height="496.48105"
+   fill="#ffffff"
+   id="rect1"
+   x="24.326405"
+   y="35.138138"
+   style="stroke-width:0.914685" />
+<text
+   x="36"
+   y="38"
+   font-size="18px"
+   text-anchor="start"
+   font-weight="bold"
+   fill="#111827"
+   id="text1"
+   style="white-space:pre;inline-size:26.1689"
+   transform="matrix(1.3,0,0,1.3,-20.848108,-14.873153)"
+   xml:space="preserve"><tspan
+     x="36"
+     y="38"
+     id="tspan2"><tspan
+       style="font-family:Arial;-inkscape-font-specification:'Arial Bold'"
+       id="tspan1">C</tspan></tspan></text>
+<text
+   x="36.00"
+   y="64.00"
+   font-size="16"
+   text-anchor="start"
+   font-weight="bold"
+   fill="#1f2937"
+   id="text2">ContextDiffReg condition-specific networks</text>
+C<text
+   x="190.00"
+   y="110.00"
+   font-size="15"
+   text-anchor="middle"
+   font-weight="bold"
+   fill="#1f2937"
+   id="text3">Control</text>
+<line
+   x1="110.00"
+   y1="145.00"
+   x2="265.00"
+   y2="150.00"
+   stroke="#9e9e9e"
+   stroke-width="1.2"
+   id="line3" />
+<line
+   x1="110.00"
+   y1="145.00"
+   x2="265.00"
+   y2="300.00"
+   stroke="#9e9e9e"
+   stroke-width="1.2"
+   id="line4" />
+<line
+   x1="110.00"
+   y1="190.00"
+   x2="265.00"
+   y2="250.00"
+   stroke="#9e9e9e"
+   stroke-width="1.2"
+   id="line5" />
+<line
+   x1="110.00"
+   y1="190.00"
+   x2="265.00"
+   y2="400.00"
+   stroke="#9e9e9e"
+   stroke-width="1.2"
+   id="line6" />
+<line
+   x1="110.00"
+   y1="235.00"
+   x2="265.00"
+   y2="200.00"
+   stroke="#9e9e9e"
+   stroke-width="1.2"
+   id="line7" />
+<line
+   x1="110.00"
+   y1="235.00"
+   x2="265.00"
+   y2="350.00"
+   stroke="#9e9e9e"
+   stroke-width="1.2"
+   id="line8" />
+<line
+   x1="110.00"
+   y1="280.00"
+   x2="265.00"
+   y2="150.00"
+   stroke="#9e9e9e"
+   stroke-width="1.2"
+   id="line9" />
+<line
+   x1="110.00"
+   y1="280.00"
+   x2="265.00"
+   y2="300.00"
+   stroke="#9e9e9e"
+   stroke-width="1.2"
+   id="line10" />
+<rect
+   x="20.00"
+   y="130.00"
+   width="90.00"
+   height="30.00"
+   fill="#d9e6f5"
+   stroke="#1f4e79"
+   stroke-width="1.5"
+   rx="15"
+   id="rect10" />
+<text
+   x="65.00"
+   y="150.00"
+   font-size="12"
+   text-anchor="middle"
+   font-weight="bold"
+   fill="#1f4e79"
+   id="text10">NF-kB</text>
+<rect
+   x="20.00"
+   y="175.00"
+   width="90.00"
+   height="30.00"
+   fill="#d9e6f5"
+   stroke="#1f4e79"
+   stroke-width="1.5"
+   rx="15"
+   id="rect11" />
+<text
+   x="65.00"
+   y="195.00"
+   font-size="12"
+   text-anchor="middle"
+   font-weight="bold"
+   fill="#1f4e79"
+   id="text11">STAT</text>
+<rect
+   x="20.00"
+   y="220.00"
+   width="90.00"
+   height="30.00"
+   fill="#d9e6f5"
+   stroke="#1f4e79"
+   stroke-width="1.5"
+   rx="15"
+   id="rect12" />
+<text
+   x="65.00"
+   y="240.00"
+   font-size="12"
+   text-anchor="middle"
+   font-weight="bold"
+   fill="#1f4e79"
+   id="text12">AP-1</text>
+<rect
+   x="20.00"
+   y="265.00"
+   width="90.00"
+   height="30.00"
+   fill="#d9e6f5"
+   stroke="#1f4e79"
+   stroke-width="1.5"
+   rx="15"
+   id="rect13" />
+<text
+   x="65.00"
+   y="285.00"
+   font-size="12"
+   text-anchor="middle"
+   font-weight="bold"
+   fill="#1f4e79"
+   id="text13">HIF1A</text>
+<rect
+   x="265.00"
+   y="137.00"
+   width="80.00"
+   height="26.00"
+   fill="#fbe7e7"
+   stroke="#8b1a1a"
+   stroke-width="1.3"
+   rx="13"
+   id="rect14" />
+<text
+   x="305.00"
+   y="155.00"
+   font-size="11"
+   text-anchor="middle"
+   font-weight="normal"
+   fill="#1f2937"
+   id="text14">Il6</text>
+<rect
+   x="265.00"
+   y="187.00"
+   width="80.00"
+   height="26.00"
+   fill="#fbe7e7"
+   stroke="#8b1a1a"
+   stroke-width="1.3"
+   rx="13"
+   id="rect15" />
+<text
+   x="305.00"
+   y="205.00"
+   font-size="11"
+   text-anchor="middle"
+   font-weight="normal"
+   fill="#1f2937"
+   id="text15">Ccl2</text>
+<rect
+   x="265.00"
+   y="237.00"
+   width="80.00"
+   height="26.00"
+   fill="#fbe7e7"
+   stroke="#8b1a1a"
+   stroke-width="1.3"
+   rx="13"
+   id="rect16" />
+<text
+   x="305.00"
+   y="255.00"
+   font-size="11"
+   text-anchor="middle"
+   font-weight="normal"
+   fill="#1f2937"
+   id="text16">Cxcl10</text>
+<rect
+   x="265.00"
+   y="287.00"
+   width="80.00"
+   height="26.00"
+   fill="#fbe7e7"
+   stroke="#8b1a1a"
+   stroke-width="1.3"
+   rx="13"
+   id="rect17" />
+<text
+   x="305.00"
+   y="305.00"
+   font-size="11"
+   text-anchor="middle"
+   font-weight="normal"
+   fill="#1f2937"
+   id="text17">Tnf</text>
+<rect
+   x="265.00"
+   y="337.00"
+   width="80.00"
+   height="26.00"
+   fill="#fbe7e7"
+   stroke="#8b1a1a"
+   stroke-width="1.3"
+   rx="13"
+   id="rect18" />
+<text
+   x="305.00"
+   y="355.00"
+   font-size="11"
+   text-anchor="middle"
+   font-weight="normal"
+   fill="#1f2937"
+   id="text18">Socs3</text>
+<rect
+   x="265.00"
+   y="387.00"
+   width="80.00"
+   height="26.00"
+   fill="#fbe7e7"
+   stroke="#8b1a1a"
+   stroke-width="1.3"
+   rx="13"
+   id="rect19" />
+<text
+   x="305.00"
+   y="405.00"
+   font-size="11"
+   text-anchor="middle"
+   font-weight="normal"
+   fill="#1f2937"
+   id="text19">Bcl2</text>
+<text
+   x="65"
+   y="123.22184"
+   font-size="12px"
+   text-anchor="middle"
+   font-weight="bold"
+   fill="#1f2937"
+   id="text20">Regulators</text>
+<text
+   x="305.00"
+   y="128.00"
+   font-size="12"
+   text-anchor="middle"
+   font-weight="bold"
+   fill="#1f2937"
+   id="text21">Targets</text>
+<text
+   x="545.00"
+   y="110.00"
+   font-size="15"
+   text-anchor="middle"
+   font-weight="bold"
+   fill="#1f2937"
+   id="text22">Disease</text>
+<line
+   x1="465.00"
+   y1="145.00"
+   x2="620.00"
+   y2="150.00"
+   stroke="#d62728"
+   stroke-width="2.2"
+   id="line22" />
+<line
+   x1="465.00"
+   y1="145.00"
+   x2="620.00"
+   y2="200.00"
+   stroke="#1f77b4"
+   stroke-width="1.2"
+   id="line23" />
+<line
+   x1="465.00"
+   y1="145.00"
+   x2="620.00"
+   y2="300.00"
+   stroke="#d62728"
+   stroke-width="1.3"
+   id="line24" />
+<line
+   x1="465.00"
+   y1="190.00"
+   x2="620.00"
+   y2="150.00"
+   stroke="#1f77b4"
+   stroke-width="1.2"
+   id="line25" />
+<line
+   x1="465.00"
+   y1="190.00"
+   x2="620.00"
+   y2="200.00"
+   stroke="#1f77b4"
+   stroke-width="1.2"
+   id="line26" />
+<line
+   x1="465.00"
+   y1="190.00"
+   x2="620.00"
+   y2="250.00"
+   stroke="#d62728"
+   stroke-width="1.3"
+   id="line27" />
+<line
+   x1="465.00"
+   y1="190.00"
+   x2="620.00"
+   y2="400.00"
+   stroke="#d62728"
+   stroke-width="2.2"
+   id="line28" />
+<line
+   x1="465.00"
+   y1="235.00"
+   x2="620.00"
+   y2="200.00"
+   stroke="#d62728"
+   stroke-width="1.3"
+   id="line29" />
+<line
+   x1="465.00"
+   y1="235.00"
+   x2="620.00"
+   y2="250.00"
+   stroke="#1f77b4"
+   stroke-width="1.2"
+   id="line30" />
+<line
+   x1="465.00"
+   y1="235.00"
+   x2="620.00"
+   y2="300.00"
+   stroke="#1f77b4"
+   stroke-width="1.2"
+   id="line31" />
+<line
+   x1="465.00"
+   y1="235.00"
+   x2="620.00"
+   y2="350.00"
+   stroke="#d62728"
+   stroke-width="2.2"
+   id="line32" />
+<line
+   x1="465.00"
+   y1="280.00"
+   x2="620.00"
+   y2="150.00"
+   stroke="#d62728"
+   stroke-width="1.3"
+   id="line33" />
+<line
+   x1="465.00"
+   y1="280.00"
+   x2="620.00"
+   y2="250.00"
+   stroke="#1f77b4"
+   stroke-width="1.2"
+   id="line34" />
+<line
+   x1="465.00"
+   y1="280.00"
+   x2="620.00"
+   y2="300.00"
+   stroke="#d62728"
+   stroke-width="2.2"
+   id="line35" />
+<line
+   x1="465.00"
+   y1="280.00"
+   x2="620.00"
+   y2="350.00"
+   stroke="#1f77b4"
+   stroke-width="1.2"
+   id="line36" />
+<rect
+   x="375.00"
+   y="130.00"
+   width="90.00"
+   height="30.00"
+   fill="#d9e6f5"
+   stroke="#1f4e79"
+   stroke-width="1.5"
+   rx="15"
+   id="rect36" />
+<text
+   x="420.00"
+   y="150.00"
+   font-size="12"
+   text-anchor="middle"
+   font-weight="bold"
+   fill="#1f4e79"
+   id="text36">NF-kB</text>
+<rect
+   x="375.00"
+   y="175.00"
+   width="90.00"
+   height="30.00"
+   fill="#d9e6f5"
+   stroke="#1f4e79"
+   stroke-width="1.5"
+   rx="15"
+   id="rect37" />
+<text
+   x="420.00"
+   y="195.00"
+   font-size="12"
+   text-anchor="middle"
+   font-weight="bold"
+   fill="#1f4e79"
+   id="text37">STAT</text>
+<rect
+   x="375.00"
+   y="220.00"
+   width="90.00"
+   height="30.00"
+   fill="#d9e6f5"
+   stroke="#1f4e79"
+   stroke-width="1.5"
+   rx="15"
+   id="rect38" />
+<text
+   x="420.00"
+   y="240.00"
+   font-size="12"
+   text-anchor="middle"
+   font-weight="bold"
+   fill="#1f4e79"
+   id="text38">AP-1</text>
+<rect
+   x="375.00"
+   y="265.00"
+   width="90.00"
+   height="30.00"
+   fill="#d9e6f5"
+   stroke="#1f4e79"
+   stroke-width="1.5"
+   rx="15"
+   id="rect39" />
+<text
+   x="420.00"
+   y="285.00"
+   font-size="12"
+   text-anchor="middle"
+   font-weight="bold"
+   fill="#1f4e79"
+   id="text39">HIF1A</text>
+<rect
+   x="620.00"
+   y="137.00"
+   width="80.00"
+   height="26.00"
+   fill="#fbe7e7"
+   stroke="#8b1a1a"
+   stroke-width="1.3"
+   rx="13"
+   id="rect40" />
+<text
+   x="660.00"
+   y="155.00"
+   font-size="11"
+   text-anchor="middle"
+   font-weight="normal"
+   fill="#1f2937"
+   id="text40">Il6</text>
+<rect
+   x="620.00"
+   y="187.00"
+   width="80.00"
+   height="26.00"
+   fill="#fbe7e7"
+   stroke="#8b1a1a"
+   stroke-width="1.3"
+   rx="13"
+   id="rect41" />
+<text
+   x="660.00"
+   y="205.00"
+   font-size="11"
+   text-anchor="middle"
+   font-weight="normal"
+   fill="#1f2937"
+   id="text41">Ccl2</text>
+<rect
+   x="620.00"
+   y="237.00"
+   width="80.00"
+   height="26.00"
+   fill="#fbe7e7"
+   stroke="#8b1a1a"
+   stroke-width="1.3"
+   rx="13"
+   id="rect42" />
+<text
+   x="660.00"
+   y="255.00"
+   font-size="11"
+   text-anchor="middle"
+   font-weight="normal"
+   fill="#1f2937"
+   id="text42">Cxcl10</text>
+<rect
+   x="620.00"
+   y="287.00"
+   width="80.00"
+   height="26.00"
+   fill="#fbe7e7"
+   stroke="#8b1a1a"
+   stroke-width="1.3"
+   rx="13"
+   id="rect43" />
+<text
+   x="660.00"
+   y="305.00"
+   font-size="11"
+   text-anchor="middle"
+   font-weight="normal"
+   fill="#1f2937"
+   id="text43">Tnf</text>
+<rect
+   x="620.00"
+   y="337.00"
+   width="80.00"
+   height="26.00"
+   fill="#fbe7e7"
+   stroke="#8b1a1a"
+   stroke-width="1.3"
+   rx="13"
+   id="rect44" />
+<text
+   x="660.00"
+   y="355.00"
+   font-size="11"
+   text-anchor="middle"
+   font-weight="normal"
+   fill="#1f2937"
+   id="text44">Socs3</text>
+<rect
+   x="620.00"
+   y="387.00"
+   width="80.00"
+   height="26.00"
+   fill="#fbe7e7"
+   stroke="#8b1a1a"
+   stroke-width="1.3"
+   rx="13"
+   id="rect45" />
+<text
+   x="660.00"
+   y="405.00"
+   font-size="11"
+   text-anchor="middle"
+   font-weight="normal"
+   fill="#1f2937"
+   id="text45">Bcl2</text>
+<text
+   x="420"
+   y="123.22184"
+   font-size="12px"
+   text-anchor="middle"
+   font-weight="bold"
+   fill="#1f2937"
+   id="text46">Regulators</text>
+<text
+   x="660.00"
+   y="128.00"
+   font-size="12"
+   text-anchor="middle"
+   font-weight="bold"
+   fill="#1f2937"
+   id="text47">Targets</text>
+<line
+   x1="99.326401"
+   y1="491.6192"
+   x2="139.3264"
+   y2="491.6192"
+   stroke="#d62728"
+   stroke-width="3"
+   id="line47" />
+<text
+   x="148.3264"
+   y="495.6192"
+   font-size="12px"
+   text-anchor="start"
+   font-weight="normal"
+   fill="#1f2937"
+   id="text48">enhanced edge</text>
+<line
+   x1="269.32642"
+   y1="491.6192"
+   x2="309.32642"
+   y2="491.6192"
+   stroke="#1f77b4"
+   stroke-width="3"
+   id="line48" />
+<text
+   x="318.32642"
+   y="495.6192"
+   font-size="12px"
+   text-anchor="start"
+   font-weight="normal"
+   fill="#1f2937"
+   id="text49">reduced edge</text>
+<line
+   x1="444.32642"
+   y1="491.6192"
+   x2="484.32642"
+   y2="491.6192"
+   stroke="#9e9e9e"
+   stroke-width="3"
+   id="line49" />
+<text
+   x="493.32642"
+   y="495.6192"
+   font-size="12px"
+   text-anchor="start"
+   font-weight="normal"
+   fill="#1f2937"
+   id="text50">unchanged</text>
+</svg>

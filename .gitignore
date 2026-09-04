@@ -1,0 +1,92 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+.ipynb_checkpoints/
+numba_cache/
+*.egg-info/
+dist/
+build/
+.eggs/
+
+# Editors / environment
+.vscode/
+.idea/
+.env
+.venv/
+venv/
+
+# Raw datasets and resources (downloaded from GEO; do not commit)
+data/
+
+# SCENIC & other heavy intermediates
+work/scenic_bench/
+work/scenic_denovo/
+work/scenic_ctx*/
+*.loom
+*.h5ad
+*.h5
+*.mtx
+*.tar
+*.tar.gz
+*.gz
+*.adj.csv
+*.aucell.csv
+*.regulons.csv
+*.gtf.gz
+
+# Logs and caches
+*.log
+*.err.log
+
+# Large derived outputs
+outputs/cellchat/
+outputs/pseudobulk_*
+outputs/gse174574_communication*
+outputs/gse225948_communication*
+outputs/*_diffedges.csv
+outputs/gse174574_microglia_DEG.csv
+outputs/gse174574_microglia_regulators_generic.csv
+outputs/gse245386_microglia_diffedges_generic.csv
+outputs/gse174574_Spi1_target_edges.csv
+
+# Backups and agent notes
+*.bak
+*.bak*
+*.bak_*
+*.final
+0830manuscript.docx
+work/tmp_*.py
+work/probe*.py
+work/_t*.py
+work/sandbox*
+*.npy
+*.npz
+AGENTS.md
+work/*.ps1
+
+# Manuscript drafts, backups, internal review notes (do not commit to public repo)
+*_before_*.docx
+*副本*.docx
+*.final
+work/audit/
+work/review*.txt
+work/reviewer*.txt
+work/dump_review2.py
+work/generic_edges.pkl
+work/polish_t5.py
+work/split_table_notes.py
+work/_*.py
+work/_*.png
+work/_*.md
+outputs/ref_doi_check_*.csv
+outputs/figures0904/
+outputs/figures之前的/
+
+# Manuscripts, raw documents, and internal working scripts (do not commit)
+*.doc
+*.docx
+*.pdf
+work/
+outputs/manuscript*
+outputs/*_manuscript*

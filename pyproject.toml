@@ -1,0 +1,32 @@
+[build-system]
+requires = ["setuptools>=64", "wheel"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "strokecell-reg"
+version = "0.1.0"
+description = "Decoding cell-type-specific gene regulatory reprogramming in stroke from single-cell transcriptomics"
+readme = "README.md"
+requires-python = ">=3.10"
+license = { text = "MIT" }
+authors = [{ name = "StrokeCell-Reg developers" }]
+dependencies = [
+    "scanpy>=1.10",
+    "anndata>=0.10",
+    "numpy",
+    "scipy",
+    "pandas",
+    "scikit-learn",
+    "networkx",
+    "matplotlib",
+    "seaborn",
+    "plotly",
+    "adjustText",
+    "gseapy",
+]
+
+[project.scripts]
+strokecell-reg = "strokecell_reg.cli:main"
+
+[tool.setuptools.packages.find]
+where = ["src"]

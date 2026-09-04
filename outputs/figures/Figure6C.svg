@@ -1,0 +1,777 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="406.53836pt"
+   height="343.77792pt"
+   viewBox="0 0 406.53836 343.77793"
+   version="1.1"
+   id="svg47"
+   sodipodi:docname="Figure6C.svg"
+   inkscape:version="1.4.4 (dcaf3e7, 2026-05-05)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <sodipodi:namedview
+     id="namedview47"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="pt"
+     inkscape:zoom="1.04"
+     inkscape:cx="289.90385"
+     inkscape:cy="228.84615"
+     inkscape:current-layer="figure_1" />
+  <metadata
+     id="metadata1">
+    <rdf:RDF>
+      <cc:Work>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:date>2026-09-04T18:41:30.882349</dc:date>
+        <dc:format>image/svg+xml</dc:format>
+        <dc:creator>
+          <cc:Agent>
+            <dc:title>Matplotlib v3.10.9, https://matplotlib.org/</dc:title>
+          </cc:Agent>
+        </dc:creator>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs1">
+    <style
+       type="text/css"
+       id="style1">*{stroke-linejoin: round; stroke-linecap: butt}</style>
+  </defs>
+  <g
+     id="figure_1"
+     transform="translate(-24.519231,-0.72115385)">
+    <g
+       id="patch_1"
+       transform="matrix(0.94311843,0,0,0.99790666,24.519231,0.72115385)">
+      <path
+         d="M 0,344.49909 H 431.05758 V 0 H 0 Z"
+         style="fill:#ffffff"
+         id="path1" />
+    </g>
+    <g
+       id="axes_1">
+      <g
+         id="patch_2">
+        <path
+           d="M 66.737581,309.84628 H 423.85758 V 21.558281 H 66.737581 Z"
+           style="fill:#ffffff"
+           id="path2" />
+      </g>
+      <g
+         id="patch_3">
+        <path
+           d="M 66.737581,34.662281 H 412.33758 V 52.430417 H 66.737581 Z"
+           clip-path="url(#pccf6e26bcd)"
+           style="fill:#e31a1c"
+           id="path3" />
+      </g>
+      <g
+         id="patch_4">
+        <path
+           d="M 66.737581,56.872451 H 412.33758 V 74.640586 H 66.737581 Z"
+           clip-path="url(#pccf6e26bcd)"
+           style="fill:#e31a1c"
+           id="path4" />
+      </g>
+      <g
+         id="patch_5">
+        <path
+           d="M 66.737581,79.08262 H 412.33758 V 96.850756 H 66.737581 Z"
+           clip-path="url(#pccf6e26bcd)"
+           style="fill:#e31a1c"
+           id="path5" />
+      </g>
+      <g
+         id="patch_6">
+        <path
+           d="M 66.737581,101.29279 H 412.33758 v 17.76813 H 66.737581 Z"
+           clip-path="url(#pccf6e26bcd)"
+           style="fill:#e31a1c"
+           id="path6" />
+      </g>
+      <g
+         id="patch_7">
+        <path
+           d="M 66.737581,123.50296 H 412.33758 v 17.76813 H 66.737581 Z"
+           clip-path="url(#pccf6e26bcd)"
+           style="fill:#e31a1c"
+           id="path7" />
+      </g>
+      <g
+         id="patch_8">
+        <path
+           d="M 66.737581,145.71313 H 412.33758 v 17.76813 H 66.737581 Z"
+           clip-path="url(#pccf6e26bcd)"
+           style="fill:#e31a1c"
+           id="path8" />
+      </g>
+      <g
+         id="patch_9">
+        <path
+           d="M 66.737581,167.9233 H 412.33758 v 17.76813 H 66.737581 Z"
+           clip-path="url(#pccf6e26bcd)"
+           style="fill:#e31a1c"
+           id="path9" />
+      </g>
+      <g
+         id="patch_10">
+        <path
+           d="M 66.737581,190.13347 H 412.33758 V 207.9016 H 66.737581 Z"
+           clip-path="url(#pccf6e26bcd)"
+           style="fill:#e31a1c"
+           id="path10" />
+      </g>
+      <g
+         id="patch_11">
+        <path
+           d="M 66.737581,212.34364 H 412.33758 v 17.76813 H 66.737581 Z"
+           clip-path="url(#pccf6e26bcd)"
+           style="fill:#e31a1c"
+           id="path11" />
+      </g>
+      <g
+         id="patch_12">
+        <path
+           d="M 66.737581,234.55381 H 412.33758 v 17.76813 H 66.737581 Z"
+           clip-path="url(#pccf6e26bcd)"
+           style="fill:#e31a1c"
+           id="path12" />
+      </g>
+      <g
+         id="patch_13">
+        <path
+           d="M 66.737581,256.76398 H 412.33758 v 17.76813 H 66.737581 Z"
+           clip-path="url(#pccf6e26bcd)"
+           style="fill:#e31a1c"
+           id="path13" />
+      </g>
+      <g
+         id="patch_14">
+        <path
+           d="M 66.737581,278.97415 H 412.33758 v 17.76813 H 66.737581 Z"
+           clip-path="url(#pccf6e26bcd)"
+           style="fill:#e31a1c"
+           id="path14" />
+      </g>
+      <g
+         id="matplotlib.axis_1">
+        <g
+           id="xtick_1">
+          <g
+             id="line2d_1">
+            <defs
+               id="defs14">
+              <path
+                 id="m691602020e"
+                 d="M 0,0 V 3.5"
+                 style="stroke:#000000;stroke-width:0.8" />
+            </defs>
+            <g
+               id="g14">
+              <use
+                 xlink:href="#m691602020e"
+                 x="66.737579"
+                 y="309.84628"
+                 style="stroke:#000000;stroke-width:0.8"
+                 id="use14" />
+            </g>
+          </g>
+          <g
+             id="text_1">
+            <text
+               style="font-size:8px;font-family:'DejaVu Sans';text-anchor:middle"
+               x="66.737579"
+               y="322.92502"
+               id="text14">0</text>
+          </g>
+        </g>
+        <g
+           id="xtick_2">
+          <g
+             id="line2d_2">
+            <g
+               id="g15">
+              <use
+                 xlink:href="#m691602020e"
+                 x="124.33758"
+                 y="309.84628"
+                 style="stroke:#000000;stroke-width:0.8"
+                 id="use15" />
+            </g>
+          </g>
+          <g
+             id="text_2">
+            <text
+               style="font-size:8px;font-family:'DejaVu Sans';text-anchor:middle"
+               x="124.33758"
+               y="322.92502"
+               id="text15">1</text>
+          </g>
+        </g>
+        <g
+           id="xtick_3">
+          <g
+             id="line2d_3">
+            <g
+               id="g16">
+              <use
+                 xlink:href="#m691602020e"
+                 x="181.93758"
+                 y="309.84628"
+                 style="stroke:#000000;stroke-width:0.8"
+                 id="use16" />
+            </g>
+          </g>
+          <g
+             id="text_3">
+            <text
+               style="font-size:8px;font-family:'DejaVu Sans';text-anchor:middle"
+               x="181.93758"
+               y="322.92502"
+               id="text16">2</text>
+          </g>
+        </g>
+        <g
+           id="xtick_4">
+          <g
+             id="line2d_4">
+            <g
+               id="g17">
+              <use
+                 xlink:href="#m691602020e"
+                 x="239.53758"
+                 y="309.84628"
+                 style="stroke:#000000;stroke-width:0.8"
+                 id="use17" />
+            </g>
+          </g>
+          <g
+             id="text_4">
+            <text
+               style="font-size:8px;font-family:'DejaVu Sans';text-anchor:middle"
+               x="239.53758"
+               y="322.92502"
+               id="text17">3</text>
+          </g>
+        </g>
+        <g
+           id="xtick_5">
+          <g
+             id="line2d_5">
+            <g
+               id="g18">
+              <use
+                 xlink:href="#m691602020e"
+                 x="297.13757"
+                 y="309.84628"
+                 style="stroke:#000000;stroke-width:0.8"
+                 id="use18" />
+            </g>
+          </g>
+          <g
+             id="text_5">
+            <text
+               style="font-size:8px;font-family:'DejaVu Sans';text-anchor:middle"
+               x="297.13757"
+               y="322.92502"
+               id="text18">4</text>
+          </g>
+        </g>
+        <g
+           id="xtick_6">
+          <g
+             id="line2d_6">
+            <g
+               id="g19">
+              <use
+                 xlink:href="#m691602020e"
+                 x="354.73758"
+                 y="309.84628"
+                 style="stroke:#000000;stroke-width:0.8"
+                 id="use19" />
+            </g>
+          </g>
+          <g
+             id="text_6">
+            <text
+               style="font-size:8px;font-family:'DejaVu Sans';text-anchor:middle"
+               x="354.73758"
+               y="322.92502"
+               id="text19">5</text>
+          </g>
+        </g>
+        <g
+           id="xtick_7">
+          <g
+             id="line2d_7">
+            <g
+               id="g20">
+              <use
+                 xlink:href="#m691602020e"
+                 x="412.33759"
+                 y="309.84628"
+                 style="stroke:#000000;stroke-width:0.8"
+                 id="use20" />
+            </g>
+          </g>
+          <g
+             id="text_7">
+            <text
+               style="font-size:8px;font-family:'DejaVu Sans';text-anchor:middle"
+               x="412.33759"
+               y="322.92502"
+               id="text20">6</text>
+          </g>
+        </g>
+        <g
+           id="text_8">
+          <text
+             style="font-size:9px;font-family:'DejaVu Sans';text-anchor:middle"
+             x="245.29758"
+             y="335.42737"
+             id="text21">Datasets recovering regulator (of 6)</text>
+        </g>
+      </g>
+      <g
+         id="matplotlib.axis_2">
+        <g
+           id="ytick_1">
+          <g
+             id="line2d_8">
+            <defs
+               id="defs21">
+              <path
+                 id="m337a58bbbf"
+                 d="M 0,0 H -3.5"
+                 style="stroke:#000000;stroke-width:0.8" />
+            </defs>
+            <g
+               id="g21">
+              <use
+                 xlink:href="#m337a58bbbf"
+                 x="66.737579"
+                 y="43.546349"
+                 style="stroke:#000000;stroke-width:0.8"
+                 id="use21" />
+            </g>
+          </g>
+          <g
+             id="text_9">
+            <text
+               style="font-size:8px;font-family:'DejaVu Sans';text-anchor:end"
+               x="59.737579"
+               y="46.585724"
+               id="text22">EGR1</text>
+          </g>
+        </g>
+        <g
+           id="ytick_2">
+          <g
+             id="line2d_9">
+            <g
+               id="g22">
+              <use
+                 xlink:href="#m337a58bbbf"
+                 x="66.737579"
+                 y="65.756516"
+                 style="stroke:#000000;stroke-width:0.8"
+                 id="use22" />
+            </g>
+          </g>
+          <g
+             id="text_10">
+            <text
+               style="font-size:8px;font-family:'DejaVu Sans';text-anchor:end"
+               x="59.737579"
+               y="68.795891"
+               id="text23">MYC</text>
+          </g>
+        </g>
+        <g
+           id="ytick_3">
+          <g
+             id="line2d_10">
+            <g
+               id="g23">
+              <use
+                 xlink:href="#m337a58bbbf"
+                 x="66.737579"
+                 y="87.96669"
+                 style="stroke:#000000;stroke-width:0.8"
+                 id="use23" />
+            </g>
+          </g>
+          <g
+             id="text_11">
+            <text
+               style="font-size:8px;font-family:'DejaVu Sans';text-anchor:end"
+               x="59.737579"
+               y="91.006065"
+               id="text24">SP1</text>
+          </g>
+        </g>
+        <g
+           id="ytick_4">
+          <g
+             id="line2d_11">
+            <g
+               id="g24">
+              <use
+                 xlink:href="#m337a58bbbf"
+                 x="66.737579"
+                 y="110.17686"
+                 style="stroke:#000000;stroke-width:0.8"
+                 id="use24" />
+            </g>
+          </g>
+          <g
+             id="text_12">
+            <text
+               style="font-size:8px;font-family:'DejaVu Sans';text-anchor:end"
+               x="59.737579"
+               y="113.21623"
+               id="text25">CEBPA</text>
+          </g>
+        </g>
+        <g
+           id="ytick_5">
+          <g
+             id="line2d_12">
+            <g
+               id="g25">
+              <use
+                 xlink:href="#m337a58bbbf"
+                 x="66.737579"
+                 y="132.38702"
+                 style="stroke:#000000;stroke-width:0.8"
+                 id="use25" />
+            </g>
+          </g>
+          <g
+             id="text_13">
+            <text
+               style="font-size:8px;font-family:'DejaVu Sans';text-anchor:end"
+               x="59.737579"
+               y="135.42641"
+               id="text26">CEBPB</text>
+          </g>
+        </g>
+        <g
+           id="ytick_6">
+          <g
+             id="line2d_13">
+            <g
+               id="g26">
+              <use
+                 xlink:href="#m337a58bbbf"
+                 x="66.737579"
+                 y="154.5972"
+                 style="stroke:#000000;stroke-width:0.8"
+                 id="use26" />
+            </g>
+          </g>
+          <g
+             id="text_14">
+            <text
+               style="font-size:8px;font-family:'DejaVu Sans';text-anchor:end"
+               x="59.737579"
+               y="157.63657"
+               id="text27">FOS</text>
+          </g>
+        </g>
+        <g
+           id="ytick_7">
+          <g
+             id="line2d_14">
+            <g
+               id="g27">
+              <use
+                 xlink:href="#m337a58bbbf"
+                 x="66.737579"
+                 y="176.80737"
+                 style="stroke:#000000;stroke-width:0.8"
+                 id="use27" />
+            </g>
+          </g>
+          <g
+             id="text_15">
+            <text
+               style="font-size:8px;font-family:'DejaVu Sans';text-anchor:end"
+               x="59.737579"
+               y="179.84674"
+               id="text28">JUN</text>
+          </g>
+        </g>
+        <g
+           id="ytick_8">
+          <g
+             id="line2d_15">
+            <g
+               id="g28">
+              <use
+                 xlink:href="#m337a58bbbf"
+                 x="66.737579"
+                 y="199.01753"
+                 style="stroke:#000000;stroke-width:0.8"
+                 id="use28" />
+            </g>
+          </g>
+          <g
+             id="text_16">
+            <text
+               style="font-size:8px;font-family:'DejaVu Sans';text-anchor:end"
+               x="59.737579"
+               y="202.05692"
+               id="text29">HIF1A</text>
+          </g>
+        </g>
+        <g
+           id="ytick_9">
+          <g
+             id="line2d_16">
+            <g
+               id="g29">
+              <use
+                 xlink:href="#m337a58bbbf"
+                 x="66.737579"
+                 y="221.22771"
+                 style="stroke:#000000;stroke-width:0.8"
+                 id="use29" />
+            </g>
+          </g>
+          <g
+             id="text_17">
+            <text
+               style="font-size:8px;font-family:'DejaVu Sans';text-anchor:end"
+               x="59.737579"
+               y="224.26707"
+               id="text30">STAT3</text>
+          </g>
+        </g>
+        <g
+           id="ytick_10">
+          <g
+             id="line2d_17">
+            <g
+               id="g30">
+              <use
+                 xlink:href="#m337a58bbbf"
+                 x="66.737579"
+                 y="243.43788"
+                 style="stroke:#000000;stroke-width:0.8"
+                 id="use30" />
+            </g>
+          </g>
+          <g
+             id="text_18">
+            <text
+               style="font-size:8px;font-family:'DejaVu Sans';text-anchor:end"
+               x="59.737579"
+               y="246.47725"
+               id="text31">STAT1</text>
+          </g>
+        </g>
+        <g
+           id="ytick_11">
+          <g
+             id="line2d_18">
+            <g
+               id="g31">
+              <use
+                 xlink:href="#m337a58bbbf"
+                 x="66.737579"
+                 y="265.64804"
+                 style="stroke:#000000;stroke-width:0.8"
+                 id="use31" />
+            </g>
+          </g>
+          <g
+             id="text_19">
+            <text
+               style="font-size:8px;font-family:'DejaVu Sans';text-anchor:end"
+               x="59.737579"
+               y="268.68741"
+               id="text32">RELA</text>
+          </g>
+        </g>
+        <g
+           id="ytick_12">
+          <g
+             id="line2d_19">
+            <g
+               id="g32">
+              <use
+                 xlink:href="#m337a58bbbf"
+                 x="66.737579"
+                 y="287.85822"
+                 style="stroke:#000000;stroke-width:0.8"
+                 id="use32" />
+            </g>
+          </g>
+          <g
+             id="text_20">
+            <text
+               style="font-size:8px;font-family:'DejaVu Sans';text-anchor:end"
+               x="59.737579"
+               y="290.89758"
+               id="text33">NFKB1</text>
+          </g>
+        </g>
+      </g>
+      <g
+         id="patch_15">
+        <path
+           d="M 66.737581,309.84628 V 21.558281"
+           style="fill:none;stroke:#000000;stroke-width:0.8;stroke-linecap:square;stroke-linejoin:miter"
+           id="path33" />
+      </g>
+      <g
+         id="patch_16">
+        <path
+           d="M 66.737581,309.84628 H 423.85758"
+           style="fill:none;stroke:#000000;stroke-width:0.8;stroke-linecap:square;stroke-linejoin:miter"
+           id="path34" />
+      </g>
+      <g
+         id="text_21">
+        <text
+           style="font-size:7px;font-family:'DejaVu Sans';text-anchor:start"
+           x="416.94559"
+           y="45.477913"
+           id="text34">6</text>
+      </g>
+      <g
+         id="text_22">
+        <text
+           style="font-size:7px;font-family:'DejaVu Sans';text-anchor:start"
+           x="416.94559"
+           y="67.68808"
+           id="text35">6</text>
+      </g>
+      <g
+         id="text_23">
+        <text
+           style="font-size:7px;font-family:'DejaVu Sans';text-anchor:start"
+           x="416.94559"
+           y="89.898254"
+           id="text36">6</text>
+      </g>
+      <g
+         id="text_24">
+        <text
+           style="font-size:7px;font-family:'DejaVu Sans';text-anchor:start"
+           x="416.94559"
+           y="112.10842"
+           id="text37">6</text>
+      </g>
+      <g
+         id="text_25">
+        <text
+           style="font-size:7px;font-family:'DejaVu Sans';text-anchor:start"
+           x="416.94559"
+           y="134.31859"
+           id="text38">6</text>
+      </g>
+      <g
+         id="text_26">
+        <text
+           style="font-size:7px;font-family:'DejaVu Sans';text-anchor:start"
+           x="416.94559"
+           y="156.52876"
+           id="text39">6</text>
+      </g>
+      <g
+         id="text_27">
+        <text
+           style="font-size:7px;font-family:'DejaVu Sans';text-anchor:start"
+           x="416.94559"
+           y="178.73892"
+           id="text40">6</text>
+      </g>
+      <g
+         id="text_28">
+        <text
+           style="font-size:7px;font-family:'DejaVu Sans';text-anchor:start"
+           x="416.94559"
+           y="200.9491"
+           id="text41">6</text>
+      </g>
+      <g
+         id="text_29">
+        <text
+           style="font-size:7px;font-family:'DejaVu Sans';text-anchor:start"
+           x="416.94559"
+           y="223.15927"
+           id="text42">6</text>
+      </g>
+      <g
+         id="text_30">
+        <text
+           style="font-size:7px;font-family:'DejaVu Sans';text-anchor:start"
+           x="416.94559"
+           y="245.36943"
+           id="text43">6</text>
+      </g>
+      <g
+         id="text_31">
+        <text
+           style="font-size:7px;font-family:'DejaVu Sans';text-anchor:start"
+           x="416.94559"
+           y="267.57962"
+           id="text44">6</text>
+      </g>
+      <g
+         id="text_32">
+        <text
+           style="font-size:7px;font-family:'DejaVu Sans';text-anchor:start"
+           x="416.94559"
+           y="289.78976"
+           id="text45">6</text>
+      </g>
+      <g
+         id="text_33">
+        <text
+           style="font-weight:700;font-size:13px;font-family:'DejaVu Sans';text-anchor:end"
+           x="48.486431"
+           y="13.438024"
+           id="text46"
+           inkscape:transform-center-x="42.915416"
+           inkscape:transform-center-y="1.7636472">C</text>
+      </g>
+      <g
+         id="text_34">
+        <text
+           style="font-size:11px;font-family:'DejaVu Sans';text-anchor:middle"
+           x="245.29758"
+           y="15.558281"
+           id="text47">Canonical stroke regulators recovered in top-20</text>
+      </g>
+    </g>
+  </g>
+  <defs
+     id="defs47">
+    <clipPath
+       id="pccf6e26bcd">
+      <rect
+         x="66.737579"
+         y="21.558281"
+         width="357.12"
+         height="288.28799"
+         id="rect47" />
+    </clipPath>
+  </defs>
+</svg>

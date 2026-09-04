@@ -1,0 +1,398 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="397.10428pt"
+   height="283.78229pt"
+   viewBox="0 0 397.10428 283.78228"
+   version="1.1"
+   id="svg29"
+   sodipodi:docname="Figure1A.svg"
+   inkscape:version="1.4.4 (dcaf3e7, 2026-05-05)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <sodipodi:namedview
+     id="namedview29"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="pt"
+     inkscape:zoom="0.77436123"
+     inkscape:cx="286.04221"
+     inkscape:cy="157.54921"
+     inkscape:current-layer="figure_1" />
+  <metadata
+     id="metadata1">
+    <rdf:RDF>
+      <cc:Work>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:date>2026-09-04T18:41:19.632025</dc:date>
+        <dc:format>image/svg+xml</dc:format>
+        <dc:creator>
+          <cc:Agent>
+            <dc:title>Matplotlib v3.10.9, https://matplotlib.org/</dc:title>
+          </cc:Agent>
+        </dc:creator>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs1">
+    <style
+       type="text/css"
+       id="style1">*{stroke-linejoin: round; stroke-linecap: butt}</style>
+    <clipPath
+       id="p92056fa450-9">
+      <rect
+         x="71.944778"
+         y="21.558281"
+         width="390.60001"
+         height="255.024"
+         id="rect29-4" />
+    </clipPath>
+    <clipPath
+       id="p92056fa450-5">
+      <rect
+         x="71.944778"
+         y="21.558281"
+         width="390.60001"
+         height="255.024"
+         id="rect29-5" />
+    </clipPath>
+    <clipPath
+       id="p92056fa450-1">
+      <rect
+         x="71.944778"
+         y="21.558281"
+         width="390.60001"
+         height="255.024"
+         id="rect29-1" />
+    </clipPath>
+    <clipPath
+       id="p92056fa450-14">
+      <rect
+         x="71.944778"
+         y="21.558281"
+         width="390.60001"
+         height="255.024"
+         id="rect29-2" />
+    </clipPath>
+  </defs>
+  <g
+     id="figure_1"
+     transform="translate(-72.640517)">
+    <g
+       id="patch_1"
+       transform="matrix(0.84536174,0,0,1,72.640517,0)">
+      <path
+         d="M 0,283.78228 H 469.74478 V 0 H 0 Z"
+         style="fill:#ffffff"
+         id="path1" />
+    </g>
+    <g
+       id="patch_6-2"
+       style="stroke-linecap:butt;stroke-linejoin:round"
+       transform="translate(131.27058,0.11964342)">
+      <path
+         d="m 214.51378,179.16311 h 117.18 q 3.1248,0 3.1248,-2.04019 v -61.20576 q 0,-2.04019 -3.1248,-2.04019 h -117.18 q -3.1248,0 -3.1248,2.04019 v 61.20576 q 0,2.04019 3.1248,2.04019 z"
+         clip-path="url(#p92056fa450-1)"
+         style="fill:#eef3fb;stroke:#1f4e79;stroke-width:1.2;stroke-linecap:butt;stroke-linejoin:miter"
+         id="path6-7" />
+    </g>
+    <g
+       id="patch_3-8"
+       style="stroke-linecap:butt;stroke-linejoin:round"
+       transform="translate(132.06777,-0.99917584)">
+      <path
+         d="m 214.51378,92.454953 h 117.18 q 3.1248,0 3.1248,-2.040192 v -61.20576 q 0,-2.040192 -3.1248,-2.040192 h -117.18 q -3.1248,0 -3.1248,2.040192 v 61.20576 q 0,2.040192 3.1248,2.040192 z"
+         clip-path="url(#p92056fa450-9)"
+         style="fill:#eef3fb;stroke:#1f4e79;stroke-width:1.2;stroke-linecap:butt;stroke-linejoin:miter"
+         id="path3-2" />
+    </g>
+    <g
+       id="patch_6-22"
+       style="stroke-linecap:butt;stroke-linejoin:round"
+       transform="translate(131.60547,86.418458)">
+      <path
+         d="m 214.51378,179.16311 h 117.18 q 3.1248,0 3.1248,-2.04019 v -61.20576 q 0,-2.04019 -3.1248,-2.04019 h -117.18 q -3.1248,0 -3.1248,2.04019 v 61.20576 q 0,2.04019 3.1248,2.04019 z"
+         clip-path="url(#p92056fa450-14)"
+         style="fill:#eef3fb;stroke:#1f4e79;stroke-width:1.2;stroke-linecap:butt;stroke-linejoin:miter"
+         id="path6-1" />
+    </g>
+    <g
+       id="axes_1">
+      <g
+         id="patch_2">
+        <path
+           d="M 83.662781,92.454953 H 200.84278 q 3.1248,0 3.1248,-2.040192 v -61.20576 q 0,-2.040192 -3.1248,-2.040192 H 83.662781 q -3.1248,0 -3.1248,2.040192 v 61.20576 q 0,2.040192 3.1248,2.040192 z"
+           clip-path="url(#p92056fa450)"
+           style="fill:#eef3fb;stroke:#1f4e79;stroke-width:1.2;stroke-linejoin:miter"
+           id="path2" />
+      </g>
+      <g
+         id="patch_3">
+        <path
+           d="m 214.51378,92.454953 h 117.18 q 3.1248,0 3.1248,-2.040192 v -61.20576 q 0,-2.040192 -3.1248,-2.040192 h -117.18 q -3.1248,0 -3.1248,2.040192 v 61.20576 q 0,2.040192 3.1248,2.040192 z"
+           clip-path="url(#p92056fa450)"
+           style="fill:#eef3fb;stroke:#1f4e79;stroke-width:1.2;stroke-linejoin:miter"
+           id="path3" />
+      </g>
+      <g
+         id="patch_5">
+        <path
+           d="M 83.662781,179.16311 H 200.84278 q 3.1248,0 3.1248,-2.04019 v -61.20576 q 0,-2.04019 -3.1248,-2.04019 H 83.662781 q -3.1248,0 -3.1248,2.04019 v 61.20576 q 0,2.04019 3.1248,2.04019 z"
+           clip-path="url(#p92056fa450)"
+           style="fill:#eef3fb;stroke:#1f4e79;stroke-width:1.2;stroke-linejoin:miter"
+           id="path5" />
+      </g>
+      <g
+         id="patch_6">
+        <path
+           d="m 214.51378,179.16311 h 117.18 q 3.1248,0 3.1248,-2.04019 v -61.20576 q 0,-2.04019 -3.1248,-2.04019 h -117.18 q -3.1248,0 -3.1248,2.04019 v 61.20576 q 0,2.04019 3.1248,2.04019 z"
+           clip-path="url(#p92056fa450)"
+           style="fill:#eef3fb;stroke:#1f4e79;stroke-width:1.2;stroke-linejoin:miter"
+           id="path6" />
+      </g>
+      <g
+         id="patch_8">
+        <path
+           d="M 83.662781,265.87127 H 200.84278 q 3.1248,0 3.1248,-2.04019 v -61.20576 q 0,-2.04019 -3.1248,-2.04019 H 83.662781 q -3.1248,0 -3.1248,2.04019 v 61.20576 q 0,2.04019 3.1248,2.04019 z"
+           clip-path="url(#p92056fa450)"
+           style="fill:#eef3fb;stroke:#1f4e79;stroke-width:1.2;stroke-linejoin:miter"
+           id="path8" />
+      </g>
+      <g
+         id="patch_9">
+        <path
+           d="m 214.51378,265.87127 h 117.18 q 3.1248,0 3.1248,-2.04019 v -61.20576 q 0,-2.04019 -3.1248,-2.04019 h -117.18 q -3.1248,0 -3.1248,2.04019 v 61.20576 q 0,2.04019 3.1248,2.04019 z"
+           clip-path="url(#p92056fa450)"
+           style="fill:#eef3fb;stroke:#1f4e79;stroke-width:1.2;stroke-linejoin:miter"
+           id="path9" />
+      </g>
+      <g
+         id="text_1">
+        <text
+           style="font-size:8px;font-family:'DejaVu Sans'"
+           transform="translate(111.34091,57.540256)"
+           id="text10">Raw scRNA-seq</text>
+        <text
+           style="font-size:8px;font-family:'DejaVu Sans'"
+           transform="translate(106.76778,66.498506)"
+           id="text11">(GEO public data)</text>
+      </g>
+      <g
+         id="patch_11">
+        <path
+           d="m 202.84203,59.811881 q 4.83711,0 8.44438,0"
+           style="fill:none;stroke:#1f4e79;stroke-width:1.1;stroke-linecap:round"
+           id="path11" />
+        <path
+           d="m 207.68641,58.011881 3.6,1.8 -3.6,1.8 z"
+           style="fill:#1f4e79;stroke:#1f4e79;stroke-width:1.1;stroke-linecap:round"
+           id="path12" />
+      </g>
+      <g
+         id="text_2">
+        <text
+           style="font-size:8px;font-family:'DejaVu Sans'"
+           transform="translate(246.29816,57.540256)"
+           id="text12">QC &amp; doublet</text>
+        <text
+           style="font-size:8px;font-family:'DejaVu Sans'"
+           transform="translate(256.81441,66.498506)"
+           id="text13">removal</text>
+      </g>
+      <g
+         id="patch_12">
+        <path
+           d="m 333.69303,59.811881 q 4.83711,0 8.44438,0"
+           style="fill:none;stroke:#1f4e79;stroke-width:1.1;stroke-linecap:round"
+           id="path13" />
+        <path
+           d="m 338.53741,58.011881 3.6,1.8 -3.6,1.8 z"
+           style="fill:#1f4e79;stroke:#1f4e79;stroke-width:1.1;stroke-linecap:round"
+           id="path14" />
+      </g>
+      <g
+         id="text_3">
+        <text
+           style="font-size:8px;font-family:'DejaVu Sans'"
+           transform="translate(371.08728,57.540256)"
+           id="text14">Batch correction</text>
+        <text
+           style="font-size:8px;font-family:'DejaVu Sans'"
+           transform="translate(370.46416,66.498506)"
+           id="text15">(Harmony / scVI)</text>
+      </g>
+      <g
+         id="patch_13">
+        <path
+           d="m 403.95478,92.416476 q 0,10.750584 0,20.271344"
+           style="fill:none;stroke:#1f4e79;stroke-width:1.1;stroke-linecap:round"
+           id="path15" />
+        <path
+           d="m 405.75478,109.08782 -1.8,3.6 -1.8,-3.6 z"
+           style="fill:#1f4e79;stroke:#1f4e79;stroke-width:1.1;stroke-linecap:round"
+           id="path16" />
+      </g>
+      <g
+         id="text_4">
+        <text
+           style="font-size:8px;font-family:'DejaVu Sans'"
+           transform="translate(124.39653,144.24842)"
+           id="text16">Cell-type</text>
+        <text
+           style="font-size:8px;font-family:'DejaVu Sans'"
+           transform="translate(120.60278,153.20667)"
+           id="text17">annotation</text>
+      </g>
+      <g
+         id="patch_14">
+        <path
+           d="m 202.84203,146.52004 q 4.83711,0 8.44438,0"
+           style="fill:none;stroke:#1f4e79;stroke-width:1.1;stroke-linecap:round"
+           id="path17" />
+        <path
+           d="m 207.68641,144.72004 3.6,1.8 -3.6,1.8 z"
+           style="fill:#1f4e79;stroke:#1f4e79;stroke-width:1.1;stroke-linecap:round"
+           id="path18" />
+      </g>
+      <g
+         id="text_5">
+        <text
+           style="font-size:8px;font-family:'DejaVu Sans'"
+           transform="translate(238.13128,144.24842)"
+           id="text18">Pseudobulk DEGs</text>
+        <text
+           style="font-size:8px;font-family:'DejaVu Sans'"
+           transform="translate(248.09691,153.20667)"
+           id="text19">per cell type</text>
+      </g>
+      <g
+         id="patch_15">
+        <path
+           d="m 333.69303,146.52004 q 4.83711,0 8.44438,0"
+           style="fill:none;stroke:#1f4e79;stroke-width:1.1;stroke-linecap:round"
+           id="path19" />
+        <path
+           d="m 338.53741,144.72004 3.6,1.8 -3.6,1.8 z"
+           style="fill:#1f4e79;stroke:#1f4e79;stroke-width:1.1;stroke-linecap:round"
+           id="path20" />
+      </g>
+      <g
+         id="text_6">
+        <text
+           style="font-size:8px;font-family:'DejaVu Sans'"
+           transform="translate(373.67666,144.24842)"
+           id="text20">ContextDiffReg</text>
+        <text
+           style="font-size:8px;font-family:'DejaVu Sans'"
+           transform="translate(367.90603,153.20667)"
+           id="text21">disease vs control</text>
+      </g>
+      <g
+         id="patch_16">
+        <path
+           d="m 403.95478,179.12464 q 0,10.75058 0,20.27133"
+           style="fill:none;stroke:#1f4e79;stroke-width:1.1;stroke-linecap:round"
+           id="path21" />
+        <path
+           d="m 405.75478,195.79597 -1.8,3.6 -1.8,-3.6 z"
+           style="fill:#1f4e79;stroke:#1f4e79;stroke-width:1.1;stroke-linecap:round"
+           id="path22" />
+      </g>
+      <g
+         id="text_7">
+        <text
+           style="font-size:8px;font-family:'DejaVu Sans'"
+           transform="translate(120.76528,230.95658)"
+           id="text22">GO / KEGG</text>
+        <text
+           style="font-size:8px;font-family:'DejaVu Sans'"
+           transform="translate(119.30591,239.91483)"
+           id="text23">enrichment</text>
+      </g>
+      <g
+         id="patch_17">
+        <path
+           d="m 202.84203,233.2282 q 4.83711,0 8.44438,0"
+           style="fill:none;stroke:#1f4e79;stroke-width:1.1;stroke-linecap:round"
+           id="path23" />
+        <path
+           d="m 207.68641,231.4282 3.6,1.8 -3.6,1.8 z"
+           style="fill:#1f4e79;stroke:#1f4e79;stroke-width:1.1;stroke-linecap:round"
+           id="path24" />
+      </g>
+      <g
+         id="text_8">
+        <text
+           style="font-size:8px;font-family:'DejaVu Sans'"
+           transform="translate(257.30066,230.95658)"
+           id="text24">Cell-cell</text>
+        <text
+           style="font-size:8px;font-family:'DejaVu Sans'"
+           transform="translate(242.17066,239.91483)"
+           id="text25">communication</text>
+      </g>
+      <g
+         id="patch_18">
+        <path
+           d="m 333.69303,233.2282 q 4.83711,0 8.44438,0"
+           style="fill:none;stroke:#1f4e79;stroke-width:1.1;stroke-linecap:round"
+           id="path25" />
+        <path
+           d="m 338.53741,231.4282 3.6,1.8 -3.6,1.8 z"
+           style="fill:#1f4e79;stroke:#1f4e79;stroke-width:1.1;stroke-linecap:round"
+           id="path26" />
+      </g>
+      <g
+         id="text_9">
+        <text
+           style="font-size:8px;font-family:'DejaVu Sans'"
+           transform="translate(381.14103,230.95658)"
+           id="text26">HTML / PDF</text>
+        <text
+           style="font-size:8px;font-family:'DejaVu Sans'"
+           transform="translate(391.73978,239.91483)"
+           id="text27">report</text>
+      </g>
+      <g
+         id="text_10"
+         transform="translate(73.609057,-5.8112414)">
+        <text
+           style="font-weight:700;font-size:13px;font-family:'DejaVu Sans';text-anchor:end"
+           x="17.26078"
+           y="21.235291"
+           id="text28">A</text>
+      </g>
+      <g
+         id="text_11">
+        <text
+           style="font-size:11px;font-family:'DejaVu Sans';text-anchor:middle"
+           x="267.24478"
+           y="15.558281"
+           id="text29">StrokeCell-Reg pipeline</text>
+      </g>
+    </g>
+  </g>
+  <defs
+     id="defs29">
+    <clipPath
+       id="p92056fa450">
+      <rect
+         x="71.944778"
+         y="21.558281"
+         width="390.60001"
+         height="255.024"
+         id="rect29" />
+    </clipPath>
+  </defs>
+</svg>
